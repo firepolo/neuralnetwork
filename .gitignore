@@ -1,4 +1,14 @@
-# Prerequisites
+# Visual studio files
+.vs/
+Debug/
+Release/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+*.vcxproj.user
+
+# Prerequisite
 *.d
 
 # Compiled Object files
